@@ -1,0 +1,169 @@
+body{
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    color: #f48302;
+    font-size: 562.5%;
+    margin-top: 50px auto 0px auto;
+    font-family: 'Sacramento' , cursive;
+}
+
+h2{
+    color: #ff6200;
+    font-family: 'Montserrat' , sans-serif;
+    padding-bottom: 10px;
+}
+
+h3{
+    color: #ff8800;
+    font-family: 'Montserrat' , sans-serif;
+}
+
+p{
+     line-height: 2;
+
+}
+
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    margin: 100px auto;
+    width: 4%;
+
+}
+
+.top-container{
+    padding: 150px 200px 0px 200px;
+    background-color: #f9f1e4;
+    position: relative;
+}
+
+.dev{
+    text-decoration: underline;
+}
+
+.middle-container{
+    margin: 100px 0px;
+}
+
+.des1{
+    width: 30%;
+    margin: auto;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.skillname{
+    width: 240px;
+    float: left;
+    margin-right: 30px;
+}
+
+
+.skill2{
+    width: 240px;
+    float: right;
+    margin: 30px;
+}
+
+.bottom-container{
+    background-color: #f9c62c;
+    padding: 50px 0px 20px;                                                        
+
+}
+
+a{
+    color: #cf4e04;
+    font-family: 'Montserrat' , sans-serif;
+    margin: 10px 20px ;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #EAF6F6;
+    text-decoration: wavy;
+}
+
+.contactmsg{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.cloud {
+    width: 220px;
+    height: 85px;
+}
+
+.first{
+    position: absolute;
+    right: 200px;
+    top: 100px;
+}
+
+.second{
+    position: absolute;
+    left: 200px;
+}
+
+.mountain{
+    position: relative;
+    bottom: 0px;
+}
+
+.introo{
+    font-size: 2.5rem;
+    color: #ff6427;
+    font-family: 'Montserrat' , sans-serif;
+    font-weight: normal;
+}
+
+
+
+.btn {
+	box-shadow:inset 0px 1px 4px 1px #f0f7fa;
+	background:linear-gradient(to bottom, #efd033 5%, #fafa30 100%);
+	background-color:#ffec45;
+	border-radius:8px;
+	border:1px solid #faffc2;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:10px 21px;
+	text-decoration:none;
+	text-shadow:-2px 0px 2px #5b6178;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+	background-color:#019ad2;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}              
+
+.copyright{
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0px 10px 0px;
+}
+
+.Samosa{
+    margin: 20px;
+    padding-bottom: 20px;
+}
+
+
+.b{
+    padding-top: 30px; ;
+}
